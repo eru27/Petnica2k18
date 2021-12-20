@@ -1,1 +1,1 @@
-# petnica2k18
+Vezbe izvedene na letnjem seminaru u Petnici 2018.
